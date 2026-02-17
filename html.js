@@ -1,12 +1,8 @@
-let myVariable =
- "Hello, World!";
+let a=4
+const b=5
+var c=6
 
-console.log(myVariable);
-function greet
-(name) {
-    
-    
-    
-    return `Hello, ${name}!`;
-}
-console.log(greet("Alice"));
+
+    console.log(a)
+    console.log(b)
+    console.log(c)
